@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sregales-devnl (Sharlon Regales)
+- 👀 I’m interested in dancing (Urban Kiz), and under water rugby (UWR)
+- 🌱 I’m currently learning The Art of Doing Science and Engineering, Learning to Learn by Richard W.Hamming
+- 💞️ I’m looking to collaborate on anything that sparks innovation within the python ecosystem
